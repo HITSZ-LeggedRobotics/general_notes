@@ -1,7 +1,7 @@
 # Use Markdown in Atom
 >install a plugin for markdown
 [markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/installation)
-
+[GitHub Flavor Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 **To open preview**
 > Ctrl+Shift+M
 
@@ -41,7 +41,7 @@ for(int i=1;i<n;i++)
 ## To do list
 - [x] havedone
   - [x] havedone
-- [ ]need to do
+- [ ] need to do
 
 ## Refer
 > first
@@ -69,6 +69,11 @@ graph TD
   C --> A;
 ```
 
+```flow
+st=>start: Start:>
+
+
+```
 
 
 ## Mathematical Formula
