@@ -54,18 +54,22 @@ add two space then enter
 ## Links
 [Google](http://www.google.com)
 ## Insert Pictures
-![HIT_logo](pic/HIT_logo.jpg)
-
+![HIT_logo](../pic/HIT_logo.jpg)
+![HIT_logo](/assets/HIT_logo.jpg)
 ## Table
 | Item | quantities | value |
 | :--- | ---------:|:----:|
 | computer| 5 | $4999.0|
 
 ## Graphs
-```graph TD
-  A[square]-->B(round)
-
+```mermaid
+graph TD
+  A[square] --> B(round);
+  B --> C;
+  C --> A;
 ```
+
+
 
 ## Mathematical Formula
 Inline formula: $\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
