@@ -59,8 +59,7 @@ add two space then enter
 | computer| 5 | $4999.0|
 
 ## Graphs
-```
-graph TD
+```graph TD
   A[square]-->B(round)
 
 ```
