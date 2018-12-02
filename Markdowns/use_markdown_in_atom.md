@@ -1,4 +1,7 @@
 # Use Markdown in Atom
+>install a plugin for markdown
+[markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/installation)
+
 **To open preview**
 > Ctrl+Shift+M
 
@@ -6,7 +9,7 @@
 ### Single line
 `int main(argc[], argv[][])`
 ### Code block
-```
+```C
 for(int i=1;i<n;i++)
     {
       if(i>10)
@@ -51,7 +54,7 @@ add two space then enter
 ## Links
 [Google](http://www.google.com)
 ## Insert Pictures
-![HIT_logo](HIT_logo.jpg)
+![HIT_logo](pic/HIT_logo.jpg)
 
 ## Table
 | Item | quantities | value |
