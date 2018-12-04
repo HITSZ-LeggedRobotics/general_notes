@@ -56,6 +56,9 @@ add two space then enter
 ## Insert Pictures
 ![HIT_logo](../pic/HIT_logo.jpg)
 ![HIT_logo](/assets/HIT_logo.jpg)
+<img src = ../pic/HIT_logo.jpg width = 30% height = 25% align = center />  <img src = ../pic/HIT_logo.jpg width = 30% height = 25% align = right />
+
+
 ## Table
 | Item | quantities | value |
 | :--- | ---------:|:----:|
