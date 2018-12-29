@@ -54,6 +54,7 @@ add two space then enter
 ## Links
 [Google](http://www.google.com)
 ## Insert Pictures
+[![Frontpage_of_HITSZ](/assets/Frontpage_of_HITSZ.png)](http://www.hitsz.edu.cn/article/view/id-43440.html)
 ![HIT_logo](../pic/HIT_logo.jpg)
 ![HIT_logo](/assets/HIT_logo.jpg)
 <img src = ../pic/HIT_logo.jpg width = 30% height = 25% align = center />  <img src = ../pic/HIT_logo.jpg width = 30% height = 25% align = right />
